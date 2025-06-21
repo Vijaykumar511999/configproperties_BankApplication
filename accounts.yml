@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+accounts:
+    message: "Hello Welcome to BankingApplication for Local Server "
+    personalDetails:
+      name: "vijay"
+      role: "java Developer"
+      email: "vijaygonugunta@gmailcom"
+    contactDetails:
+     7780684556
+     7032788787

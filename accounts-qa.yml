@@ -1,0 +1,13 @@
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Hello Welcome to BankingApplication for QA Server "
+  personalDetails:
+    name: "kumar"
+    role: "java Lead"
+    email: "kumar@gmailcom"
+  contactDetails:
+    7780684556
+    7032788787

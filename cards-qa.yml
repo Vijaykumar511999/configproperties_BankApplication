@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+cards:
+  message: "Complete cards Application Microservice QA project"
+  developerDetails:
+    name: "Sagar ullanga"
+    role: "Java Lead"
+  contactDetails:
+    99999999999
+    89898989898

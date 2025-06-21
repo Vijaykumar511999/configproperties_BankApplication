@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+
+cards:
+  message: "Complete cards Application Microservice PROD project"
+  developerDetails:
+    name: "Murali Krishna"
+    role: "Manager"
+  contactDetails:
+    77777777777
+    67676767676

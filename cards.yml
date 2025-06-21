@@ -1,0 +1,12 @@
+
+build:
+  version: 3.0
+
+cards:
+  message: "Complete cards Application Microservice Local project"
+  developerDetails:
+    name: "ramesh peddisetti"
+    role: "Java Developer"
+  contactDetails:
+    77989889889
+    89888888888

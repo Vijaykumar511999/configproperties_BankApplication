@@ -1,0 +1,13 @@
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Hello Welcome to BankingApplication for Prod Server "
+  personalDetails:
+    name: "ramesh"
+    role: "java Support team"
+    email: "ramesh@gmailcom"
+  contactDetails:
+    7780684556
+    7032788787

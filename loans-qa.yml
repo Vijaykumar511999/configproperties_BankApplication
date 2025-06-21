@@ -1,0 +1,12 @@
+build:
+  version: 2.0
+
+loans:
+  message: "Hello Welcome to BankingApplication for QA Server "
+  personalDetails:
+    name: "rajeev"
+    role: "Full Stack Developer"
+    email: "rajeev@gmailcom"
+  contactDetails:
+    7780684556
+    7032788787

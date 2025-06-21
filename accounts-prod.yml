@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Hello Welcome to BankingApplication for Prod Server "
+  message: "Hello Welcome to BankingApplication for PRODUCTION Server "
   personalDetails:
     name: "ramesh"
     role: "java Support team"

@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 cards:
-  message: "Complete cards Application Microservice PRODUCTION project"
+  message: "Complete cards Application Microservice TCL-PRODUCTION project"
   developerDetails:
     name: "Murali Krishna"
     role: "Manager"

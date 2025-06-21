@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 loans:
-  message: "Hello Welcome to BankingApplication for PRODUCTION Server "
+  message: "Hello Welcome to BankingApplication for TCL-PRODUCTION Server "
   personalDetails:
     name: "santhoshi"
     role: "Full Stack Developer"

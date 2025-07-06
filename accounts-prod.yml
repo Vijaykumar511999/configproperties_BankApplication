@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Hello Welcome to BankingApplication for TCL-PRODUCTION Webhook Server "
+  message: "Hello Welcome to BankingApplication for TCL-PRODUCTION WEBHOOK Server "
   personalDetails:
     name: "ramesh"
     role: "java Support team"

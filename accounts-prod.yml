@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Hello Welcome to BankingApplication for TCL-PRODUCTION web Server "
+  message: "Hello Welcome to BankingApplication for TCL-PRODUCTION  Server "
   personalDetails:
     name: "Vijay"
     role: "java Support team"

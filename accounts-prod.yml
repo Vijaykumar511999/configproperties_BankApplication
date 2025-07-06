@@ -5,7 +5,7 @@ build:
 accounts:
   message: "Hello Welcome to BankingApplication for TCL-PRODUCTION web Server "
   personalDetails:
-    name: "ramesh"
+    name: "king"
     role: "java Support team"
     email: "ramesh@gmailcom"
   contactDetails:
